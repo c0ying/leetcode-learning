@@ -1,6 +1,6 @@
-package com.jingxin.businessmag.test.ot.inter_0402;
+package com.c0ying.algorithm.inter_0402;
 
-import com.jingxin.businessmag.test.ot.TreeNode;
+import com.c0ying.algorithm.TreeNode;
 
 import java.util.Arrays;
 
